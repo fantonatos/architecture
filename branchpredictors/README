@@ -1,0 +1,7 @@
+Fotis Antonatos
+
+Everything works! Plus, the branch predictors are multithreaded using
+libpthread.
+
+I learned that C's fscanf is way faster than C++ stringstream.
+

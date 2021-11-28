@@ -1,0 +1,7 @@
+Fotis Antonatos
+
+Everything works! Caches are also multithreaded.
+
+In optimizing the program, I learned that -Ofast is VERY effective in this application.
+I also observed that gcc produced a slightly faster executable than clang.
+

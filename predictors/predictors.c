@@ -1,15 +1,7 @@
-/*
- * © 2021 Fotis Antonatos
- *
- * Copying and distribution of this software, in binary or source format,
- * and any accompanying files or documentation, with or without modification,
- * are permitted in any medium without royalty provided the copyright
- * notice and this notice are preserved.  This software is offered as-is,
- * without any warranty.
- */
+/* Copyright 2021 Fotis Antonatos. See LICENSE */
 
 /*
- * This program simulates and measures the accuracy of branch prediction algorithms:
+ * Simulates and measures the accuracy of branch predictors:
  *(sim_)always take
  *      always (not) take
  *      bimodal (with single-bit history)

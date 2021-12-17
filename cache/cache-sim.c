@@ -1,10 +1,7 @@
+/* Copyright 2021 Fotis Antonatos. See LICENSE */
+
 /* 
- * © 2021 Fotis Antonatos
- * See LICENSE
- *
- * Simulates direct mapped, set associative, and fully associative
- * CPU caches.
- *
+ * Direct mapped, set associative, and fully associative cache simulation.
  */
 
 #include <stdlib.h>

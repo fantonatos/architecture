@@ -29,4 +29,4 @@ Simulation of various branch prediction algorithms ([always take](predictors/pre
 0x4085c1 T 0x4085cc
 ```
 
-Both programs are multithreaded and fast. They simulate their respective hardware on the input provided from tracefiles. Tracefiles should be using UNIX line endings.
+Both programs are multithreaded and fast. They simulate their respective hardware on the input provided from tracefiles. Tracefiles should have UNIX line endings.
